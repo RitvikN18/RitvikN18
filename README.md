@@ -13,6 +13,7 @@
 </p>
   
 - 📫 How to reach me: [ritvikso@gmail.com]
+- 👋 Connect with me on LinkedIn: https://www.linkedin.com/in/ritvikn/
 
 <!---
 RitvikN18/RitvikN18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
