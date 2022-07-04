@@ -1,7 +1,7 @@
 <h2 align='center'>Hello 👋! I am Ritvik Nimmagadda.</h2> 
 
 <p align = 'center'>
-  I am a College Senior mainly interested in interdisciplinary research involving Machine Learning. 
+  I am a CS graduate student at the University of Southern California, mainly interested in interdisciplinary research involving Machine Learning. 
   My interest lies in research in the sphere of Deep Learning and Computer Vision, however, I am open to exploring other areas of Machine Learning too. 
   I have always been fascinated by the power of Artificial Intelligence and its wonders. 
   My fondness towards Mathematics and Computer Science since my childhood days pushed me to work on Machine Learning. 
