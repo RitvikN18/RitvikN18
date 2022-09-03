@@ -10,7 +10,7 @@
   Five years from now, I see myself developing applications and publishing impactful research work, making a meaningful contribution in my field.
 </p>
   
-- 📫 How to reach me: [ritvikso@gmail.com]
+- 📫 How to reach me: [rnimmaga@usc.edu]
 - 👋 Connect with me on LinkedIn: https://www.linkedin.com/in/ritvikn/
 - 💻 My website: https://ritvikn.netlify.app/
 
