@@ -31,7 +31,7 @@
     
   🧠 Undergraduate Researcher:
   * Improved deep learning models for License Plate Corner Point Detection.
-  * Presented research at an international conference.
+  * Presented research paper at an international conference.
 
   🌟 My passion lies in the intersection of technology and real-world problem-solving. Let's connect and explore the future of innovation together! 💬🚀
 </p>
