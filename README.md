@@ -1,18 +1,39 @@
-<h2 align='center'>Hello 👋! I am Ritvik Nimmagadda.</h2> 
+<h2 align='center'>Hello 👋! I am Ritvik Nimmagadda. I'm currently working as an AI Software Engineer Intern at The Cigna Group</h2> 
 
 <p align = 'center'>
-  I am a CS graduate student at the University of Southern California, mainly interested in interdisciplinary research involving machine learning. 
-  My interest lies in research in the spheres of Deep Learning and Computer Vision. However, I am open to exploring other areas of Machine Learning too. 
-  I have always been fascinated by the power of artificial intelligence and its wonders. 
-  My fondness for mathematics and computer science since my childhood days pushed me to work on machine learning. 
-  My first research work in this field was "Advanced Meta-Heuristic Approaches for Automatic License Plate Corner Point Detection", where I worked on improving the performance and accuracy of state-of-the-art deep learning models used for object detection tasks by performing feature selection on these models using various nature-inspired metaheuristic optimization algorithms like Genetic Algorithm, Particle Swarm Optimization, and Cuckoo Search Algorithm. I presented this paper at the International Conference on Artificial Intelligence: Theory and Applications (AITA 2021).
-  Later, I got a chance to intern at Ontario Tech University, where I was a part of the project "Emotion Recognition Models for Companion Robots." I worked on building machine learning models for the task of audio-based emotion recognition using a multi-modal approach to be used in companion robots. This paper was published in the Journal of Supercomputing.
-  Five years from now, I see myself developing applications and publishing impactful research work, making a meaningful contribution in my field.
+  I'm a passionate computer scientist with a diverse background in various cutting-edge technologies. Here's a glimpse into my journey:
+  
+  🎓 Education:
+  
+  * Master of Science in Computer Science from the University of Southern California
+  * Bachelor of Technology in Computer Science and Engineering from the International Institute of Information Technology
+  
+  🚀 Experience:
+  
+  🌐 UCLA Research Intern:
+  * Developed an algorithm for forecasting forest fire containment resource needs.
+  * Engineered an interactive web app using React and Flask.
+  * Pioneered NLP solutions for medical data analysis.
+  📊 Tiger Analytics Data Science Intern:
+  * Designed data pipelines using Apache Airflow, Python, and MySQL.
+  * Implemented an ML-based recommendation engine for work order assignments.
+  * Leveraged Docker and Azure for ML model deployment.
+  🤖 Omdena Junior Machine Learning Engineer:
+  * Worked on symbol localization and detection for PID engineering drawings.
+  * Led a non-profit project analyzing the socio-economic impact of Covid-19 in India using AI.
+  🤖 Ontario Tech University AI Research Intern:
+  * Built machine learning models for Audio-Based Emotion Recognition.
+  * Developed a real-time web application for emotion detection.
+  * Published research in 'The Journal of Supercomputing'.
+  🧠 Undergraduate Researcher:
+  * Improved deep learning models for License Plate Corner Point Detection.
+  * Presented research at an international conference.
+
+  🌟 My passion lies in the intersection of technology and real-world problem-solving. Let's connect and explore the future of innovation together! 💬🚀
 </p>
   
 - 📫 How to reach me: [rnimmaga@usc.edu]
 - 👋 Connect with me on LinkedIn: https://www.linkedin.com/in/ritvikn/
-- 💻 My website: https://ritvikn.netlify.app/
 
 <!---
 RitvikN18/RitvikN18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
