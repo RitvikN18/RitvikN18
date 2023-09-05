@@ -14,17 +14,21 @@
   * Developed an algorithm for forecasting forest fire containment resource needs.
   * Engineered an interactive web app using React and Flask.
   * Pioneered NLP solutions for medical data analysis.
+
   📊 Tiger Analytics Data Science Intern:
   * Designed data pipelines using Apache Airflow, Python, and MySQL.
   * Implemented an ML-based recommendation engine for work order assignments.
   * Leveraged Docker and Azure for ML model deployment.
+    
   🤖 Omdena Junior Machine Learning Engineer:
   * Worked on symbol localization and detection for PID engineering drawings.
-  * Led a non-profit project analyzing the socio-economic impact of Covid-19 in India using AI.
+  * Led a non-profit project analyzing the socio-economic impact of COVID-19 in India using AI.
+    
   🤖 Ontario Tech University AI Research Intern:
   * Built machine learning models for Audio-Based Emotion Recognition.
   * Developed a real-time web application for emotion detection.
   * Published research in 'The Journal of Supercomputing'.
+    
   🧠 Undergraduate Researcher:
   * Improved deep learning models for License Plate Corner Point Detection.
   * Presented research at an international conference.
