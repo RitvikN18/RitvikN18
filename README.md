@@ -9,6 +9,11 @@
   * Bachelor of Technology in Computer Science and Engineering from the International Institute of Information Technology
   
   🚀 Experience:
+
+  🩺 Cigna AI Software Engineer:
+  * Spearheaded the development of a system that autonomously extracts key insights from daily reports provided by investment banking companies and answers questions from those reports, resulting in an anticipated cost savings of over $200k annually.
+  * Implemented RAG (Retrieval Augmented Generation), using Redis vector DB for similarity search and integrating Langchain's OpenAI wrapper operating GPT4 LLM to boost natural language understanding, contributing to ~30% reduction in manual effort.
+  * Developed robust backend Flask API, ensuring seamless communication between the front-end and the underlying AI engine.
   
   🌐 UCLA Research Intern:
   * Developed an algorithm for forecasting forest fire containment resource needs.
@@ -38,6 +43,7 @@
   
 - 📫 How to reach me: [rnimmaga@usc.edu]
 - 👋 Connect with me on LinkedIn: https://www.linkedin.com/in/ritvikn/
+- My website: https://ritvikn.vercel.app/
 
 <!---
 RitvikN18/RitvikN18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
