@@ -1,4 +1,4 @@
-<h2 align='center'>Hello 👋! I am Ritvik. I'm currently working as an AI Software Engineer at The Cigna Group</h2> 
+<h2 align='center'>Hello 👋! I am Ritvik. I'm currently working as a Software Engineer at <a href="akasa.com">AKASA</a></h2> 
 
 <p align = 'center'>
   I'm a passionate computer scientist with a diverse background in various cutting-edge technologies. Here's a glimpse into my journey:
