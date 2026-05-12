@@ -8,8 +8,8 @@
   * Master of Science in Computer Science from the University of Southern California
   * Bachelor of Technology in Computer Science and Engineering from the International Institute of Information Technology
 
-  🌟 My passion lies in the intersection of technology and real-world problem-solving. Let's connect and explore the future of innovation together! 💬🚀
+  🌟 My passion lies in the intersection of technology and real-world problem-solving. Let's connect and explore the future of innovation together!
 </p>
   
-- 📫 How to reach me: [ritvikso@gmail.com]
-- 👋 Connect with me on LinkedIn: https://www.linkedin.com/in/ritvikn/
+- email: [ritvikso@gmail.com]
+- linkedin: https://www.linkedin.com/in/ritvikn/
