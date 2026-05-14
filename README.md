@@ -6,7 +6,7 @@
   * MS in CS & AI from the University of Southern California
   * Bachelor of Technology in Computer Science and Engineering from the International Institute of Information Technology
 
-  Prev - AI Software Engineer @ Cigna where I worked on enabling AI across the enterprise to reduce costs and save time for the customers
+  Prev - AI @ Cigna where I worked on enabling AI across the enterprise to reduce costs and save time for the customers
   
   Current - SWE @ Akasa, building GenAI systems for healthcare RCM
 
