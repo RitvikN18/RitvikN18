@@ -3,12 +3,10 @@
 <p align = 'center'>
   I'm a passionate computer scientist with a diverse background in various cutting-edge technologies. Here's a glimpse into my journey:
   
-  🎓 Education:
-  
-  * Master of Science in Computer Science from the University of Southern California
+  * MS in CS & AI from the University of Southern California
   * Bachelor of Technology in Computer Science and Engineering from the International Institute of Information Technology
 
-  🌟 My passion lies in the intersection of technology and real-world problem-solving. Let's connect and explore the future of innovation together!
+  My passion lies in the intersection of technology and real-world problem-solving. Let's connect and explore the future of innovation together!
 </p>
   
 - email: [ritvikso@gmail.com]
